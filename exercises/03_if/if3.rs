@@ -24,9 +24,6 @@ fn animal_habitat(animal: &str) -> &str {
 
 fn main() {
     // You can optionally experiment here.
-    let num: i32 = 10;
-    let n: &i32 = &num;
-    println!(zn)
 }
 
 // Don't change the tests!
